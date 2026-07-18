@@ -1,6 +1,6 @@
 {
 	"name": "abdedefefdeedd",
-	"url": "https://a100.kkk119.top/",
+	"url": "https://pphtml.pages.dev/app",
 	"showName": "A100Reg",
 	"appid": "com.kkk119.a100",
 	"icon": "",
@@ -11,7 +11,7 @@
 	"injectJq": true,
 	"tauriApi": false,
 	"devbug": false,
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"preview": "Android",
 	"platform": [
 		"1-1"
@@ -35,7 +35,7 @@
 		"windows": {
 			"label": "abdedefefdeedd",
 			"title": "A100Reg",
-			"url": "https://a100.kkk119.top/",
+			"url": "https://pphtml.pages.dev/app",
 			"userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36",
 			"width": 430,
 			"height": 800,
@@ -161,8 +161,8 @@
 	"ios": {
 		"name": "abdedefefdeedd",
 		"showName": "A100Reg",
-		"version": "0.0.3",
-		"webUrl": "https://a100.kkk119.top/",
+		"version": "0.0.4",
+		"webUrl": "https://pphtml.pages.dev/app",
 		"id": "com.kkk119.a100.ios",
 		"icon": "./app-icon.png",
 		"desc": "Package for personal use only, please do not use for commercial purposes（打包仅限个人使用，请勿传播或商业用途）",
@@ -174,8 +174,8 @@
 	"android": {
 		"name": "abdedefefdeedd",
 		"showName": "A100Reg",
-		"version": "0.0.3",
-		"webUrl": "https://a100.kkk119.top/",
+		"version": "0.0.4",
+		"webUrl": "https://pphtml.pages.dev/app",
 		"id": "com.kkk119.a100.android",
 		"icon": "./app-icon.png",
 		"input": "./app-icon.png",
@@ -192,10 +192,10 @@
 	"desktop": {
 		"name": "abdedefefdeedd",
 		"showName": "A100Reg",
-		"version": "0.0.3",
+		"version": "0.0.4",
 		"id": "com.kkk119.a100.desktop",
 		"desc": "打包仅限个人使用，请勿传播或商业用途，否则后果自负",
-		"webUrl": "https://a100.kkk119.top/",
+		"webUrl": "https://pphtml.pages.dev/app",
 		"iconPath": "../app-icon.png",
 		"inputPath": "../app-icon.png",
 		"tempPath": "./processed-image.png",
