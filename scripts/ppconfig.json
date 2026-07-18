@@ -11,7 +11,7 @@
 	"injectJq": true,
 	"tauriApi": false,
 	"devbug": false,
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"preview": "Android",
 	"platform": [
 		"1-1"
@@ -85,7 +85,7 @@
 		"download": true,
 		"internet": true,
 		"position": true,
-		"direction": "vertical",
+		"direction": "horizontal",
 		"callPhone": false,
 		"microphone": false,
 		"camera": true,
@@ -107,12 +107,7 @@
 		"endPwdError": "",
 		"pwdStyle": "flat",
 		"pwdTheme": "dark",
-		"safeArea": {
-			"top": -1,
-			"bottom": -1,
-			"left": -1,
-			"right": -1
-		},
+		"safeArea": "fullscreen",
 		"header": {
 			"show": false,
 			"title": "",
@@ -161,7 +156,7 @@
 	"ios": {
 		"name": "abdedefefdeedd",
 		"showName": "A100Reg",
-		"version": "0.0.4",
+		"version": "0.0.5",
 		"webUrl": "https://pphtml.pages.dev/app",
 		"id": "com.kkk119.a100.ios",
 		"icon": "./app-icon.png",
@@ -169,12 +164,12 @@
 		"pubBody": "打包仅限个人使用，请勿传播或商业用途，否则后果自负",
 		"isHtml": false,
 		"debug": false,
-		"safeArea": "all"
+		"safeArea": "fullscreen"
 	},
 	"android": {
 		"name": "abdedefefdeedd",
 		"showName": "A100Reg",
-		"version": "0.0.4",
+		"version": "0.0.5",
 		"webUrl": "https://pphtml.pages.dev/app",
 		"id": "com.kkk119.a100.android",
 		"icon": "./app-icon.png",
@@ -187,12 +182,12 @@
 		"pubBody": "打包仅限个人使用，请勿传播或商业用途，否则后果自负",
 		"isHtml": false,
 		"debug": false,
-		"safeArea": "all"
+		"safeArea": "fullscreen"
 	},
 	"desktop": {
 		"name": "abdedefefdeedd",
 		"showName": "A100Reg",
-		"version": "0.0.4",
+		"version": "0.0.5",
 		"id": "com.kkk119.a100.desktop",
 		"desc": "打包仅限个人使用，请勿传播或商业用途，否则后果自负",
 		"webUrl": "https://pphtml.pages.dev/app",
