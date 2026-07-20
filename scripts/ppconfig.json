@@ -11,7 +11,7 @@
 	"injectJq": true,
 	"tauriApi": false,
 	"devbug": false,
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"preview": "Android",
 	"platform": [
 		"1-1"
@@ -149,14 +149,14 @@
 			"domStorageEnabled": true,
 			"allowFileAccess": false,
 			"loadWithOverviewMode": true,
-			"setSupportZoom": false,
+			"setSupportZoom": true,
 			"clearCache": false
 		}
 	},
 	"ios": {
 		"name": "ebbdbadecaa",
 		"showName": "小艺云展板",
-		"version": "0.0.2",
+		"version": "0.0.3",
 		"webUrl": "https://www.nbiotyun.com/#/monitor",
 		"id": "com.kkk119.ds.ios",
 		"icon": "./app-icon.png",
@@ -169,7 +169,7 @@
 	"android": {
 		"name": "ebbdbadecaa",
 		"showName": "小艺云展板",
-		"version": "0.0.2",
+		"version": "0.0.3",
 		"webUrl": "https://www.nbiotyun.com/#/monitor",
 		"id": "com.kkk119.ds.android",
 		"icon": "./app-icon.png",
@@ -187,7 +187,7 @@
 	"desktop": {
 		"name": "ebbdbadecaa",
 		"showName": "小艺云展板",
-		"version": "0.0.2",
+		"version": "0.0.3",
 		"id": "com.kkk119.ds.desktop",
 		"desc": "小艺云展板",
 		"webUrl": "https://www.nbiotyun.com/#/monitor",
