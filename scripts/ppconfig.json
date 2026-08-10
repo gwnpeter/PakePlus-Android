@@ -79,13 +79,13 @@
 		}
 	},
 	"phone": {
-		"fullScreen": true,
+		"fullScreen": false,
 		"launchImage": "",
 		"screenOn": true,
 		"download": true,
 		"internet": true,
 		"position": true,
-		"direction": "horizontal",
+        "direction": "vertical",
 		"callPhone": false,
 		"microphone": false,
 		"camera": true,
